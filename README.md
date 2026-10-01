@@ -1,6 +1,7 @@
 <h3>sql codes for study and work<h3>
 <br>
 <hr>
+    
 ```sql
 
 CREATE DATABASE estudo_sql;
