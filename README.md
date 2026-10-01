@@ -1,8 +1,6 @@
 <h3>sql codes for study and work<h3>
 <br>
 <hr>
-<br>
-
 ```sql
 
 CREATE DATABASE estudo_sql;
@@ -15,7 +13,6 @@ CREATE TABLE funcionarios (
     setor VARCHAR(50),
     salario DECIMAL(10,2)
 );
-
 -- Tabela de vendas
 CREATE TABLE vendas (
     id INT AUTO_INCREMENT PRIMARY KEY,
