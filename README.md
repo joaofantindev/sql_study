@@ -2,7 +2,9 @@
 <br>
 <hr>
 <br>
+
 ```sql
+
 CREATE DATABASE estudo_sql;
 USE estudo_sql;
 
@@ -22,4 +24,5 @@ CREATE TABLE vendas (
     FOREIGN KEY (funcionario_id)
         REFERENCES funcionarios(id)
 );
+
 ```
